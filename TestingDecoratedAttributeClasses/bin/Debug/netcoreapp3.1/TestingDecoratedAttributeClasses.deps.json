@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestingDecoratedAttributeClasses/1.0.0": {
+        "dependencies": {
+          "TestAttributes.SDK": "1.0.0"
+        },
+        "runtime": {
+          "TestingDecoratedAttributeClasses.dll": {}
+        }
+      },
+      "TestAttributes.SDK/1.0.0": {
+        "runtime": {
+          "TestAttributes.SDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestingDecoratedAttributeClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAttributes.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
